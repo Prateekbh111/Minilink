@@ -1,4 +1,4 @@
-# MINILINK
+# Minilink
 
 Minilink is a web application that simplifies the process of sharing long and cumbersome URLs by transforming them into concise and shareable links. This project is built using a modern tech stack, ensuring a smooth user experience and efficient performance.
 ![Screenshot (463)](https://github.com/Prateekbh111/Minilink/assets/94775107/fc0164f5-28d4-4b90-a400-a9e312135f80)
