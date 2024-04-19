@@ -1,6 +1,6 @@
-# URL Shortner
+# MINILINK
 
-URL Shortener is a web application that simplifies the process of sharing long and cumbersome URLs by transforming them into concise and shareable links. This project is built using a modern tech stack, ensuring a smooth user experience and efficient performance.
+Minilink is a web application that simplifies the process of sharing long and cumbersome URLs by transforming them into concise and shareable links. This project is built using a modern tech stack, ensuring a smooth user experience and efficient performance.
 ![Screenshot (463)](https://github.com/Prateekbh111/Minilink/assets/94775107/fc0164f5-28d4-4b90-a400-a9e312135f80)
 ![Screenshot (464)](https://github.com/Prateekbh111/Minilink/assets/94775107/d116980a-7dde-4222-94d2-5d7ebfbe0f57)
 ![Screenshot (461)](https://github.com/Prateekbh111/Minilink/assets/94775107/dcc6c125-585e-4a50-8524-16cbe085ac1a)
